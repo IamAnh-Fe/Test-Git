@@ -1,5 +1,8 @@
 #Terms
 Respository(Repo)
+Branch
+Conflict
+
 #Commands
 -git init
 -git status
