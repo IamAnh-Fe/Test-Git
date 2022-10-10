@@ -9,4 +9,4 @@ Respository(Repo)
 - git log
 - git log --oneline
 - git branch
-- git checkout -b {branch name}
+- git checkout -b {branch name}   add new branch
