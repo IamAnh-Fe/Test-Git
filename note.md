@@ -10,3 +10,5 @@ Respository(Repo)
 - git log --oneline
 - git branch
 - git checkout -b {branch name}   add new branch
+- git merge {branch name}
+- git branch - d {branch name}
